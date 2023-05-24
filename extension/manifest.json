@@ -5,7 +5,7 @@
     "manifest_version": 3
 
     "browser_action" : {
-        "default_icon": "assets/sniperlogo.png
+        "default_icon": "assets/sniperlogo.png"
     },
 
     "permissions": [
