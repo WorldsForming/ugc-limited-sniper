@@ -1,11 +1,11 @@
 {
-    "name": "Rblx Botter",
-    "description": "Bot anything with this new botter. Games, groups, and more.",
-    "version": "1.0.0",
-    "manifest_version": 2,
+    "name": "Ugc Limited Sniper",
+    "description": "This only works on free ugc limiteds so don't worry on losing any robux"
+    "version": "6.2.8",
+    "manifest_version": 3
 
     "browser_action" : {
-        "default_icon": "assets/roblox.png"
+        "default_icon": "assets/sniperlogo.png
     },
 
     "permissions": [
@@ -18,9 +18,9 @@
     },
 
     "icons": {
-        "16": "assets/roblox.png",
-        "32": "assets/roblox.png",
-        "48": "assets/roblox.png",
-        "128": "assets/roblox.png"
+        "16": "assets/sniperlogo.png",
+        "32": "assets/sniperlogo.png",
+        "48": "assets/sniperlogo.png",
+        "128": "assets/sniperlogo.png"
     }
 }
